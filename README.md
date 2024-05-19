@@ -1,1 +1,1 @@
-# SkyScrapers-Prolog
+# SkyScrapers_Puzzle_Solver-Prolog
